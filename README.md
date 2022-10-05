@@ -11,6 +11,7 @@
 - Create an issue and then do a pull request
 - Add at least two problems-solution to the code.
 - Write good-quality code with comments also.
+- Dont add Duplicate Programs.
 
 ## How to make changes?
 - Fork this repository and clone that to your local machine
